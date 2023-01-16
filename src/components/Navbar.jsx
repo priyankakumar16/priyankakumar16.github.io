@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Document } from 'react-pdf'
+// import { Document } from 'react-pdf'
 
 import {
   FaGithub,
